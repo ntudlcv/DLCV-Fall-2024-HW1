@@ -1,15 +1,15 @@
 
-Please click [this link](https://docs.google.com/presentation/d/17BmuGNCfDK6iUsAslqrbntDjhIggxHhJMsYcpAe1PUs/edit?usp=sharing) to view the slides of HW1
+Please click [this link](https://docs.google.com/presentation/d/1r3zxEd6IXVXq7_pQJuXwql-iKlwU1LWMqVQBsetx4rA/edit?usp=sharing)to view the slides of HW1
 
 # Usage
 To start working on this assignment, you should clone this repository into your local machine by using the following command.
 
-    git clone https://github.com/DLCV-Fall-2023/hw1-<username>.git
+    git clone https://github.com/DLCV-Fall-2024/hw1-<username>.git
 Note that you should replace `<username>` with your own GitHub username.
 
 # Submission Rules
 ### Deadline
-2023/10/17 (Tue.) 23:59
+2024/9/24 (Tue.) 23:59
 
 ### Packages
 This assignment should be done using python3.8. For a list of packages you are allowed to import in this assignment, please refer to the requirments.txt for more details.
