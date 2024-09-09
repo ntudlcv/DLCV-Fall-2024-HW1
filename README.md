@@ -9,7 +9,7 @@ Note that you should replace `<username>` with your own GitHub username.
 
 # Submission Rules
 ### Deadline
-2024/9/24 (Tue.) 23:59
+2024/9/27 (Fri.) 23:59
 
 ### Packages
 This assignment should be done using python3.8. For a list of packages you are allowed to import in this assignment, please refer to the requirments.txt for more details.
